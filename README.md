@@ -6,3 +6,6 @@
 
 #### telegram: @qqgstk
 #### my website: https://dmitrywd.ru/
+
+This site was built using [telegram](https://www.youtube.com/)
+
